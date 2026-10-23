@@ -1,0 +1,10 @@
+{
+  "name": "Remix AP FLN Field Monitoring \u0026 State Dashboard",
+  "description": "Andhra Pradesh School Education Department Foundational Literacy and Numeracy (FLN) Field Monitoring, Student Assessment, Tour Diary \u0026 State MIS Dashboard (2026–2029).",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
